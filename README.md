@@ -1,4 +1,4 @@
-![Banner Image](banner-image.png)
+![Banner Image](banner-image.jpg)
 
 ## Welcome to My Portfolio! 👋
 
