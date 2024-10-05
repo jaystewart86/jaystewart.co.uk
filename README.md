@@ -6,7 +6,7 @@ This repository showcases my journey as a software developer, highlighting my sk
 
 **About Me:**
 
-I'm a highly motivated and experienced backend developer with 8+ years of experience in building web applications. I specialize in building scalable and performant e-commerce solutions and I'm passionate about leveraging technology to create seamless user experiences. I'm currently focused on expanding my skillset to include modern technologies like Node.js, DevOps practices, and frontend frameworks like React and Vue.js. I'm passionate about Fintech and AI-driven startups and eager to contribute to innovative projects in these fields.
+I'm a highly motivated and experienced backend developer with 8+ years of experience in building web applications. I specialize in building scalable and performant e-commerce solutions and I'm passionate about leveraging technology to create seamless user experiences. I'm currently focused on expanding my skillset to include modern technologies like Node.js, DevOps practices, and frontend framework React. I'm passionate about Fintech and AI-driven startups and eager to contribute to innovative projects in these fields.
 
 **Featured Projects:**
 
@@ -23,7 +23,7 @@ I'm a highly motivated and experienced backend developer with 8+ years of experi
 
 **Technologies:**
 
-[Logos of technologies you're proficient in (e.g., PHP, Node.js, React, Docker, AWS)]
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 **Connect with Me:**
 
