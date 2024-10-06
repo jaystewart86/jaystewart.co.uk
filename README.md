@@ -10,6 +10,7 @@ I'm a highly motivated and experienced backend developer with 8+ years of experi
 
 **Featured Projects:**
 
+* **WiseTrackr:** https://github.com/jaystewart86/optiportfolio - A mobile app for hiking trail navigation with offline maps, GPS tracking, and safety features. (Built with React Native)
 * **OptiPortfolio:** https://github.com/jaystewart86/optiportfolio - An intelligent tool that helps users optimize their investment portfolios based on risk tolerance and financial goals. (Built with Node.js, Express.js, and a frontend framework.)
 * **PractiBooking:** https://github.com/jaystewart86/practibooking - A streamlined booking system designed for practitioners (doctors, therapists, consultants) to manage appointments and client information efficiently. (Built with Node.js, a database like MongoDB, and a frontend framework.)
 * **CreatureMedicine:** https://github.com/jaystewart86/creaturemedicine - A unique web application that provides users with an interactive "medicine card" spread, offering insights and guidance based on animal symbolism and spiritual traditions. (Built with Node.js, a frontend framework, and potentially incorporating AI for card selection or interpretation.) 
@@ -23,7 +24,11 @@ I'm a highly motivated and experienced backend developer with 8+ years of experi
 
 **Technologies:**
 
-[![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![Neo4j](https://img.shields.io/badge/Neo4j-white.svg?style=for-the-badge&logo=neo4j&logoColor=black)](https://neo4j.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)   
+ [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)   
+ [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)   
+ [![Neo4j](https://img.shields.io/badge/Neo4j-white.svg?style=for-the-badge&logo=neo4j&logoColor=black)](https://neo4j.com/) [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)   
+
 
 **Connect with Me:**
 
