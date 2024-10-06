@@ -10,9 +10,9 @@ I'm a highly motivated and experienced backend developer with 8+ years of experi
 
 **Featured Projects:**
 
-* **OptiPortfolio:** https://github.com/jaystewart86/optiportfolio - An intelligent tool that helps users optimize their investment portfolios based on risk tolerance and financial goals. (Built with Node.js, Express.js, and a frontend framework.)
-* **PractiBooking:** https://github.com/jaystewart86/practibooking - A streamlined booking system designed for practitioners (doctors, therapists, consultants) to manage appointments and client information efficiently. (Built with Node.js, a database like MongoDB, and a frontend framework.)
-* **CreatureMedicine:** https://github.com/jaystewart86/creaturemedicine - A unique web application that provides users with an interactive "medicine card" spread, offering insights and guidance based on animal symbolism and spiritual traditions. (Built with Node.js, a frontend framework, and potentially incorporating AI for card selection or interpretation.) 
+* **OptiPortfolio:** https://github.com/jaystewart86/optiportfolio - An intelligent tool that helps users optimize their investment portfolios based on risk tolerance and financial goals. (Built with Node.js, Express.js, Neo4j, and React.)
+* **PractiBooking:** https://github.com/jaystewart86/practibooking - A streamlined booking system designed for practitioners (doctors, therapists, consultants) to manage appointments and client information efficiently. (Built with Node.js, PostgreSQL, and React.)
+* **CreatureMedicine:** https://github.com/jaystewart86/creaturemedicine - A unique web application that provides users with an interactive "medicine card" spread, offering insights and guidance based on animal symbolism and spiritual traditions. (Built with Node.js, Express.js, MongoDB, React, and AI for card selection and interpretation.) 
 
 **What You'll Find Here:**
 
