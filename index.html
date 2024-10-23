@@ -1,105 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Jay Stewart - Backend developer with 8+ years of experience building high-impact web applications."
+    />
+    <title>Jay Stewart</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alata&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
   </head>
-  <body class="bg-gray-100 font-sans">
-
-    <header class="bg-cover bg-center py-20" style="background-image: url('banner-image-site.jpg')">
-      <div class="container mx-auto text-center text-white">
-        <h1 class="text-5xl font-bold mb-4">Hey, I'm Jay 👋</h1> 
-        <p class="text-lg">Crafting code and digital experiences.</p> 
+  <body class="bg-gray-100 playwrite-gb-s-fun">
+    <header
+      class="bg-cover bg-center py-12"
+      style="background-image: url('banner-image-site.jpg')"
+      aria-label="Banner image"
+    >
+      <div class="container mx-auto text-center text-white max-w-4xl">
+        <h1 class="text-5xl font-bold mb-4">Hey, I'm Jay.</h1>
+        <p class="text-4xl">Crafting code.</p>
       </div>
     </header>
 
-    <main class="container mx-auto py-12">
-
-      <section class="mb-12">
-        <h2 class="text-3xl font-bold mb-4">About Me</h2>
-        <p class="text-gray-700 leading-relaxed">
-          I'm a backend developer with 8+ years of experience building high-impact web applications. I specialize in crafting scalable and performant e-commerce solutions, and I'm passionate about using technology to create seamless user experiences. Currently, I'm diving deep into modern tech like Node.js, DevOps, and React. I'm excited about the future of Fintech and AI and eager to contribute to projects that push the boundaries. 
-          <br><br>
-          In addition to my work in the digital world, I'm also a Biodynamic Craniosacral Therapist. I find that this hands-on practice provides a valuable balance to my work on computers, allowing me to connect with people in a direct and perceptual way. You can learn more about my craniosacral therapy practice on my <a href="https://craniosacralmedicine.com" class="text-blue-500 hover:underline">website</a>. 
+    <main class="container mx-auto py-12 max-w-4xl">
+      <section class="mb-4">
+        <h2 class="text-3xl font-bold mb-4 text-center">About Me</h2>
+        <p class="text-gray-700 leading-relaxed text-3xl">
+          I'm a fullstack developer with 8+ years of experience building
+          high-impact web applications. I specialize in crafting scalable and
+          performant startup solutions, and I'm passionate about using
+          technology to create seamless user experiences. Currently, I'm diving
+          deep into modern tech like Next.js and AWS Amplify. I'm excited about
+          the future of Fintech and AI and eager to contribute to projects that
+          push the boundaries.
         </p>
       </section>
 
-      <section class="mb-12">
-        <h2 class="text-3xl font-bold mb-4">Featured Projects</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-
-          <div class="bg-white rounded-lg shadow-md p-6">
-            <h3 class="text-xl font-bold mb-2">AssetZen</h3>
-            <p class="text-gray-700 mb-4">Helping users achieve their financial goals with an intelligent portfolio optimization tool.</p>
-            <a href="https://assetzen.app" class="text-blue-500 hover:underline">Visit Website</a> or  
-            <a href="https://github.com/jaystewart86/assetzen" class="text-blue-500 hover:underline">View on GitHub</a>
-            <p class="mt-2 text-gray-600 text-sm">Built with React and AWS Amplify</p>
-          </div>
-
-          <div class="bg-white rounded-lg shadow-md p-6">
-            <h3 class="text-xl font-bold mb-2">SlotSnap</h3>
-            <p class="text-gray-700 mb-4">Streamlining appointment scheduling for practitioners with a robust and efficient booking system.</p>
-            <a href="https://slotsnap.app" class="text-blue-500 hover:underline">Visit Website</a> or 
-            <a href="https://github.com/jaystewart86/slotsnap" class="text-blue-500 hover:underline">View on GitHub</a>
-            <p class="mt-2 text-gray-600 text-sm">Built with React and AWS Amplify.</p>
-          </div>
-
-          <div class="bg-white rounded-lg shadow-md p-6">
-            <h3 class="text-xl font-bold mb-2">Creature Medicine</h3>
-            <p class="text-gray-700 mb-4">Explore animal symbolism and spiritual traditions with this interactive "medicine card" experience.</p>
-            <a href="https://creaturemedicine.com" class="text-blue-500 hover:underline">Visit Website</a> or 
-            <a href="https://github.com/jaystewart86/creaturemedicine" class="text-blue-500 hover:underline">View on GitHub</a>
-            <p class="mt-2 text-gray-600 text-sm">Built with React and AWS Amplify.</p>
-          </div>
-
-          <div class="bg-white rounded-lg shadow-md p-6">
-            <h3 class="text-xl font-bold mb-2">Español con Amor</h3>
-            <p class="text-gray-700 mb-4">A website for a Spanish teacher.</p>
-            <a href="https://espanolconamor.com" class="text-blue-500 hover:underline">Visit Website</a> or 
-            <a href="https://github.com/jaystewart86/espanolconamor" class="text-blue-500 hover:underline">View on GitHub</a>
-            <p class="mt-2 text-gray-600 text-sm">Built with React and AWS Amplify.</p>
-          </div>
-
+      <section class="mb-4">
+        <div
+          class="flex flex-col md:flex-row justify-center items-center text-center"
+        >
+          <a
+            href="https://www.linkedin.com/in/jaystewartcouk/"
+            class="m-2 text-blue-500 hover:underline text-3xl"
+            >LinkedIn</a
+          >
+        </div>
+        <div class="text-center">
+          <p class="text-4xl">jay@jaystewart.co.uk</p>
         </div>
       </section>
-
-      <section class="mb-12">
-        <h2 class="text-3xl font-bold mb-4">Tech Stack</h2> 
-        <div class="flex flex-wrap justify-center">
-          <a href="https://reactnative.dev/" class="m-2"> 
-            <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
-          </a>
-          <a href="https://nodejs.org/en/" class="m-2">
-            <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-          </a>
-          <a href="https://reactjs.org/" class="m-2">
-            <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-          </a>
-          <a href="https://www.docker.com/" class="m-2">
-            <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-          </a>
-          <a href="https://aws.amazon.com/" class="m-2">
-            <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-          </a>
-          <a href="https://trello.com" class="m-2">
-            <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
-          </a>
-          <a href="https://aws.amazon.com/amplify/" class="m-2">
-            <img src="https://img.shields.io/badge/Amplify%20Gen2-%23FF9900.svg?style=for-the-badge&logo=aws-amplify&logoColor=white" alt="Amplify Gen2">
-          </a>
-        </div>
-      </section>
-
-      <section class="mb-12">
-        <h2 class="text-3xl font-bold mb-4">Let's Connect!</h2> 
-        <div class="flex flex-col md:flex-row justify-center items-center">
-          <a href="https://www.linkedin.com/in/jaystewartcouk/" class="m-2 text-blue-500 hover:underline">LinkedIn</a>
-          <a href="mailto:jay@jaystewart.co.uk" class="m-2 text-blue-500 hover:underline">Email</a>
-        </div>
-      </section>
-
     </main>
 
     <footer class="bg-gray-800 text-white py-6">
@@ -107,6 +67,5 @@
         <p>&copy; 2024 Jay Stewart</p>
       </div>
     </footer>
-
   </body>
 </html>
