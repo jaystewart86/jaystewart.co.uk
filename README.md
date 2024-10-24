@@ -2,7 +2,7 @@
 
 ## Crafting code.
 
-![Banner Image](banner-image-site.jpg)
+![Banner Image](images/banner-image-site.jpg)
 
 ## About Me
 
